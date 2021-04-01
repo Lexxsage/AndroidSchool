@@ -7,7 +7,6 @@ import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 import com.example.hw3.databinding.CardviewBinding
-import com.example.hw3.databinding.ListTileBinding
 
 data class PlaceholderItem(
     val id: String,
