@@ -6,4 +6,6 @@
     <string name="message">Message</string>
     <string name="subscribed">Subscribed</string>
     <string name="msg_token" translatable="false">Registration Token: %s</string>
+    <string name="channel_name">Channel</string>
+    <string name="channel_description">description</string>
 </resources>

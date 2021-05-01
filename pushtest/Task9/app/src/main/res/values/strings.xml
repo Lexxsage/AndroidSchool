@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Task9</string>
-    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
-    <string name="default_notification_channel_name" translatable="true">Chanel</string>
-    <string name="msg_subscribe_failed">Failed to subscribe</string>
-    <string name="fcm_message">FCM Message</string>
-    <string name="msg_subscribed">Subscribed</string>
-    <string name="msg_token_fmt" translatable="false">FCM registration Token: %s</string>
-</resources>
